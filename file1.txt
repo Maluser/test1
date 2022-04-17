@@ -1,5 +1,5 @@
 SALAM!!
-GOING
+will be doing
 commit test
 test is completed
 commit 1
