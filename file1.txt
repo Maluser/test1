@@ -1,6 +1,6 @@
 SALAM!!
 GOING
-
+commit test
 test is completed
 commit 1
 commit 2
